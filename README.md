@@ -11,9 +11,15 @@ open source Loveart
 - 蒙板绘制
 
 开源版本lovart复刻中，即将开源,欢迎加入以及star，当前效果截图：
+![adc575999d06453c78c5413f8327a41b](https://github.com/user-attachments/assets/2bd715e4-d31e-4672-a771-81f69bfd8464)
 
-![f962d533ac3bb14e61e8b2c3fd9b52ed](https://github.com/user-attachments/assets/ad84e5f9-3529-4467-8920-2816bf3f1176)
+
+https://github.com/user-attachments/assets/c8febd24-99df-41eb-b1a1-f99dd9618c81
 
 
-欢迎一起开发+V
+
+
+
+**欢迎一起开发+V**
+
 <img width="152" alt="image" src="https://github.com/user-attachments/assets/a95f10c2-f3d5-45d8-9ea0-f864c62a4389" />
