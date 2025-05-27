@@ -10,7 +10,7 @@ open source Loveart
 - 美学知识库搭建
 - 蒙板绘制
 
-开源版本lovart复刻中，即将开源,欢迎加入以及star，当前效果截图：
+开源版本lovart复刻中，即将开源，正在整理代码中 ,欢迎加入以及star，当前效果截图：
 ![adc575999d06453c78c5413f8327a41b](https://github.com/user-attachments/assets/2bd715e4-d31e-4672-a771-81f69bfd8464)
 
 
